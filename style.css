@@ -5,16 +5,33 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
+.clearfix:after{
+    content:"";
+    display: table;
+    clear: both;
+}
 .container{
     width: 1366px;
     margin: 0 auto;
 }
+.padingsite{
+    padding-left: 98px;
+    padding-right:98px; 
+}
 .fon{
     height: 800px;
     background-image: url(img/fon.jpg);
+    position: relative;
 }
 .menu-list{
     list-style-type: none;
+    float: left;
+}
+.menu{
+    float:right;
+}
+.header{
+    padding-top: 63px;
 }
 .menu-link{
     font-size: 14px;
@@ -23,6 +40,10 @@ body{
     font-weight: 500;
     color: #8c8c8c;
     text-decoration: none;
+    padding: 10px 13px;
+}
+.menu-link:hover{
+    color: #212121;
 }
 .menu-link-activ{
     font-weight: 700;
@@ -37,6 +58,7 @@ body{
     text-transform: uppercase;
     letter-spacing: 0.1em;
     color: #43a047;
+    margin-top: 250px;
 }
 .fontitlu{
     font-size: 62px;
@@ -50,6 +72,9 @@ body{
     line-height: 24px;
     font-weight: 300;
     color: #6c6c6c;
+    width: 485px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 .botton{
     font-size: 18px;
@@ -78,10 +103,25 @@ body{
     background-color: #c7c7c7;
     border-radius: 50%;
     display: inline-block;
+    margin: 5px;
 
 }
 .circle-active{
     width: 40px;
     height: 40px;
     background-color: #212121;
+    margin-bottom: 0px;
+}
+.pages{
+    position: absolute;
+    width: 1170px;
+    bottom: 19px;
+    text-align: center;
+    
+}
+.circlepage:hover{
+    background-color: #212121;
+}
+.header img{
+    padding :10px 13px;
 }
