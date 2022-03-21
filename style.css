@@ -354,7 +354,38 @@ body{
 .pag2content-botton2 img{
     padding-left: 15px;
 }
-{
-    1109
+
+.pag3{
+    width:1366px;
+    height:1108;
+    margin: 0 auto;
+}
+.pag3-titlu1{
+    font-family: Montserrat;
+    font-size: 36px;
+    line-height: 1.2;
+    font-weight: 700;
+    color: #212121;
+}
+.pag3-titlu2{
+    font-family: Montserrat;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #212121;
+}
+.pag3-list{
+    list-style-type: none;
+    display: inline-block;
+
+}
+.pag3-list-img{
+    width: 370px;
+    height: 370px;
+    float: left;
+
+
 
 }
