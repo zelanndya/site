@@ -558,3 +558,61 @@ body{
     height: 570px;
     margin-right: 30px;
 }
+/*section 6*/
+.section6{
+    width: 1366px;
+    height: 516px;
+    margin: 0 auto;
+
+}
+.contet-section6{
+    background-image: url(img/fon6.png);
+    width: 1366px;
+    height: 516px;
+    margin-top: -130px;
+}
+.contet-section6-tilt1{
+    font-family: Montserrat;
+    font-size: 18px;
+    line-height: 48px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #6c6c6c;
+    padding-top: 110px;
+    padding-left: 99px;
+}
+
+.contet-section6-tilt2{
+    font-family: Montserrat;
+    font-size: 62px;
+    line-height: 72px;
+    font-weight: 100;
+    text-transform: uppercase;
+    color: #212121;
+    padding-left: 99px;
+    padding-bottom: 15px;
+}
+
+.contet-section6-tilt3{
+    font-family: Montserrat;
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: 300;
+    color: #6c6c6c;
+    padding-left: 99px;
+    padding-bottom: 25px;
+}
+
+.section6-button1{
+    width: 135px;
+    height: 40px;
+    padding-left: 99px;
+    padding-right: 20px;
+    
+}
+.section6-button2{
+    width: 135px;
+    height: 40px;
+    
+}
