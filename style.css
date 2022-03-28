@@ -616,3 +616,123 @@ body{
     height: 40px;
     
 }
+/*footer*/
+.footer{
+    width: 1366px;
+    height: 384px;
+    background-color: #f7f7f7;
+}
+.foot-box1{
+    float: left;
+
+}
+.foot-content1{
+    font-family: Montserrat;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #6c6c6c;
+}
+.foot-content2{
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 300;
+    color: #212121;
+}
+.foot-content3{
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 300;
+    color: #212121;
+}
+.foot-content4{
+    font-family: Montserrat;
+    font-size: 12px;
+    line-height: 26px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #6c6c6c;    
+}
+.foot-box2{
+    
+}
+.footcontent1{
+    font-family: Montserrat;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #6c6c6c;
+}
+.footcontent2{
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 26px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #212121;
+}
+.foot-box3{
+    float: right;
+}
+.footcontent-1{
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 26px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #212121;
+}
+.social{
+    font-family: icomoon;
+    font-size: 28px;
+    line-height: 26px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #6c6c6c;
+}
+.foot-box4{
+    float: right;
+}
+.footContent1{
+    font-family: Montserrat;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #6c6c6c;
+}
+.footContent2{
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 300;
+    color: #212121;
+}
+form{
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 300;
+    color: #6c6c6c;    
+    height: 24px;
+}
+.footContent3{
+    font-family: Montserrat;
+    font-size: 12px;
+    line-height: 26px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #6c6c6c;
+}
