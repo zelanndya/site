@@ -1050,4 +1050,37 @@ button {
     top: -748px;
     right: -837px;
 }
-
+/*showroom*/
+.SHcontact-title{
+    font-family: Montserrat;
+    font-size: 62px;
+    line-height: 72px;
+    font-weight: 100;
+    color: #212121;
+    margin-top: 110px;  
+    
+}
+.SHproduct{
+    margin-top: 50px;
+    margin-bottom: 50px; 
+    border-bottom: 1px solid#6c6c6c;
+    
+}
+.SHproduct-nav a{
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 16px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #6c6c6c;
+    padding: 10px;
+    
+    
+}
+.SHproduct-nav a:first-child{
+    color: #212121;
+    margin-left: 100px;
+    border-bottom: 3px solid#212121;
+}
