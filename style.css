@@ -1063,7 +1063,7 @@ button {
 .SHproduct{
     margin-top: 50px;
     margin-bottom: 50px; 
-    border-bottom: 1px solid#6c6c6c;
+    
     
 }
 .SHproduct-nav a{
@@ -1076,11 +1076,34 @@ button {
     letter-spacing: 0.1em;
     color: #6c6c6c;
     padding: 10px;
-    
-    
 }
 .SHproduct-nav a:first-child{
     color: #212121;
     margin-left: 100px;
     border-bottom: 3px solid#212121;
+    padding-bottom: 8px;
+}
+
+.SHnav2,.SHnav3{
+    border-bottom: 1px solid#6c6c6c;
+    margin-left: -4px;
+    margin-right: -4px;
+}
+.galery-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.galery-container > div{
+    margin: 10px;
+    padding: 10px
+}
+.galery-button{
+    height: 200px;
+    position: relative;
+    top: 40px;
+    text-align: center;
+    
 }
