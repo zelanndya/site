@@ -1015,11 +1015,10 @@ button {
     padding-top: 240px;
     padding-bottom: 70px;
 }
-.product1-botton{
-    float: right;
-    padding-right: 160px;
-    padding-top: -150px;
-    margin-top: -101px;
+.product1-botton {
+    position: relative;
+    left: 1005px;
+    bottom: 100px;
     font-family: Montserrat;
     font-size: 18px;
     line-height: 24px;
