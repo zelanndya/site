@@ -50,6 +50,7 @@ body{
 }
 .menu-link:hover{
     color: #212121;
+    border-bottom: 3px solid#212121;
 }
 .menu-link-activ{
     font-weight: 700;
@@ -57,6 +58,7 @@ body{
     color: #212121;
     border-bottom: 3px solid#212121;
 }
+
 .fontext1{
     font-size: 18px;
     line-height: 48px;
